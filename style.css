@@ -4,13 +4,17 @@
     box-sizing: border-box;
 }
 
+img {
+    max-width: 10vw;
+}
+
 /* ---------------------------------------------------- */
 /* NAV */
 
 .col-12.nav_up {
     background-color: #2D3E50;
     color: white;
-    min-height: 90px;
+    padding: 10px;
 }
 
 .col-6 {
@@ -34,6 +38,10 @@
 .col-12.header_up {
     background-color: #1CBC9C;
     height: 500px;
+}
+
+.col-4 {
+    border: 1px solid red;
 }
 
 /* ---------------------------------------------------- */
