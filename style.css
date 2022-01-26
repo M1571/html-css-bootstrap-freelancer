@@ -4,10 +4,13 @@
     box-sizing: border-box;
 }
 
+/* ---------------------------------------------------- */
+/* NAV */
+
 .col-12.nav_up {
     background-color: #2D3E50;
-    padding: 10px;
     color: white;
+    min-height: 90px;
 }
 
 .col-6 {
@@ -25,30 +28,48 @@
     font-size: 0.7em;
 }
 
+/* ---------------------------------------------------- */
+/* START BOOSTRAP */
+
 .col-12.header_up {
     background-color: #1CBC9C;
     height: 500px;
 }
+
+/* ---------------------------------------------------- */
+/* PORTFOLIO */
 
 .col-12.main_portfolio {
     border: 1px solid red;
     height: 500px;
 }
 
+/* ---------------------------------------------------- */
+/* ABOUT */
+
 .col-12.main_about {
     background-color: #1CBC9C;
     height: 250px;
 }
+
+/* ---------------------------------------------------- */
+/* CONTACT ME */
 
 .col-12.main_contact {
     border: 1px solid red;
     height: 400px;
 }
 
+/* ---------------------------------------------------- */
+/* LOCATION AROUND ABOUT */
+
 .col-12.footer_up {
     background-color: #3A546D;
     height: 140px;
 }
+
+/* ---------------------------------------------------- */
+/* COPYRIGHT */
 
 .col-12.footer_bot {
     background-color: #2D3E50;
