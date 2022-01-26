@@ -4,6 +4,28 @@
     box-sizing: border-box;
 }
 
-.col-12 {
-    border: 1px solid red;
+.col-12.nav_up {
+    background-color: #2D3E50;
+    padding: 20px;
+    color: white;
+}
+
+.col-6 {
+    border: 3px solid yellow;
+    text-align: center;
+}
+
+.nav_links {
+    border: 3px solid red;
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: center;
+    gap: 20px;
+    font-size: 0.7em;
+}
+
+.col-12.header_up {
+    background-color: #1CBC9C;
+    height: 500px;
 }
