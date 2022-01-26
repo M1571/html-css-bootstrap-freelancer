@@ -6,7 +6,7 @@
 
 .col-12.nav_up {
     background-color: #2D3E50;
-    padding: 20px;
+    padding: 10px;
     color: white;
 }
 
@@ -29,3 +29,30 @@
     background-color: #1CBC9C;
     height: 500px;
 }
+
+.col-12.main_portfolio {
+    border: 1px solid red;
+    height: 500px;
+}
+
+.col-12.main_about {
+    background-color: #1CBC9C;
+    height: 250px;
+}
+
+.col-12.main_contact {
+    border: 1px solid red;
+    height: 400px;
+}
+
+.col-12.footer_up {
+    background-color: #3A546D;
+    height: 140px;
+}
+
+.col-12.footer_bot {
+    background-color: #2D3E50;
+    height: 60px;
+}
+
+
